@@ -11,14 +11,14 @@
             "id": "50dc91dbab80fd7b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/github-sync/styles.css",
-                "bFile": ".obsidian/plugins/github-sync/styles.css",
-                "aRef": ""
+                "file": "hfgh.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: styles.css  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "hfgh"
             }
           }
         ]
@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hfgh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hfgh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "hfgh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2aace5c90813a179",
+  "active": "50dc91dbab80fd7b",
   "lastOpenFiles": [
     "hfgh.md",
     "test"
