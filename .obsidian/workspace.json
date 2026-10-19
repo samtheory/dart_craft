@@ -11,14 +11,14 @@
             "id": "50dc91dbab80fd7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "hfgh.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/github-sync/styles.css",
+                "bFile": ".obsidian/plugins/github-sync/styles.css",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "hfgh"
+              "icon": "diff",
+              "title": "Diff: styles.css  (Working Tree)"
             }
           }
         ]
@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hfgh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hfgh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +159,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hfgh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,13 +166,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "2aace5c90813a179",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,10 +193,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c08bca4e184269c3",
+  "active": "2aace5c90813a179",
   "lastOpenFiles": [
     "hfgh.md",
     "test"
